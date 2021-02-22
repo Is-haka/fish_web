@@ -27,7 +27,7 @@
             </ul>
         </nav>
     </div>
-    <div class="container row">
+    <div class="row">
         <div class="col-2">
             <h1>You're looking for Proteins? <br>We've it!</h1>
             <p>We're committed on ensuring perfect health to our customers, our products 
@@ -40,7 +40,7 @@
 
 
 
-    <div class="categories">
+    <div class="container categories">
         <div class="small-container">
         <div class="roww">
             <div class="col-3">
@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class=" small-container">
+    <div class="container small-container">
         <h2 class="title">Indian Fishes</h2>
         <div class="rows">
             <div class="col-4">
