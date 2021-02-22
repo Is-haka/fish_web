@@ -53,8 +53,11 @@
         </div>
     </div>
 
+    <div>
+    <h2 class="title">Indian Fishes</h2>
+    </div>
     <div class="container small-container">
-        <h2 class="title">Indian Fishes</h2>
+        
         <div class="rows">
             <div class="col-4">
                 <img src="fish/2.png">
