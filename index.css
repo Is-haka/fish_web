@@ -82,7 +82,7 @@ nav ul li a:hover {
 }
 
 .categories {
-    margin: 40px 0;
+    /* margin: 40px 0; */
 }
 
 .col-3 {
@@ -114,6 +114,7 @@ nav ul li a:hover {
 
 .col-4:hover {
     transform: translateY(-5px);
+    box-shadow: 0 4px 8px lightgrey;
 }
 
 .col-4 img {
