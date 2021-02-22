@@ -85,6 +85,18 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
                     <i class="fa fa-star-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
@@ -99,6 +111,18 @@
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star"></i>
                     <i class="fa fa-star-half-o"></i>
+                </div>
+            </div>
+            <div class="col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
                 </div>
             </div>
         </div>
