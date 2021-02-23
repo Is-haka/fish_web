@@ -27,9 +27,10 @@
             </ul>
         </nav>
     </div>
-
+</div>
     <div class="row">
-        <div class="col -2">
+        <div class="col -8">
+        <div class="col-8">
             <h1>You're looking for Proteins? <br>We've it!</h1>
             <p>We're committed on ensuring perfect health to our customers, our products 
                 <br>have been leading the market for years.</p>
@@ -52,6 +53,12 @@
             <div class="col-3">
                 <img src="fish/16.jpg">
             </div>
+            <div class="col-3">
+                <img src="fish/8.jpg">
+            </div>
+            <div class="col-3">
+                <img src="fish/16.jpg">
+            </div>
         </div>
         </div>
     </div>
@@ -62,7 +69,7 @@
     <div class="container small-container">
         
         <div class="rows">
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="fish/2.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -74,7 +81,7 @@
                     <i class="fa fa-star-o"></i>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="fish/5.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -86,7 +93,7 @@
                     <i class="fa fa-star-o"></i>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="fish/2.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -98,7 +105,7 @@
                     <i class="fa fa-star-o"></i>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="fish/2.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -110,7 +117,7 @@
                     <i class="fa fa-star-o"></i>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="./fish/5.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -122,7 +129,7 @@
                     <i class="fa fa-star-half-o"></i>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="card col-4">
                 <img src="fish/2.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
