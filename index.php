@@ -33,16 +33,16 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="fish/8.jpg" class="d-block w-100" alt="...">
+      <img src="fish/8.jpg" class="d-block w-100 h-10" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="fish/2.png" class="d-block w-100 h-50" alt="...">
+      <img src="fish/2.png" class="d-block w-100 h-10" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="fish/5.png" class="d-block w-100" alt="...">
+      <img src="fish/5.png" class="d-block w-100 h-10" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="fish/7.png" class="d-block w-100" alt="...">
+      <img src="fish/7.png" class="d-block w-100 h-10" alt="...">
     </div>
   </div>
 </div>
