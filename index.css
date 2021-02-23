@@ -43,7 +43,6 @@ a {
 nav ul li a:hover {
     color: #5900ff;
 }
-
 .row {
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(fish/20.jpg);
     height: 500px;
@@ -53,9 +52,9 @@ nav ul li a:hover {
 }
 
 .col-2 {
-    margin: auto;
     text-align: center;
     padding: 50px;
+    height: 500px;
 }
 
 .col-2 h1 {
