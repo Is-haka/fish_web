@@ -40,7 +40,7 @@
 
 
 
-    <div class="container categories">
+    <div class="container">
         <div class="small-container">
         <div class="roww">
             <div class="col-3">
