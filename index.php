@@ -28,29 +28,7 @@
         </nav>
     </div>
 
-
-
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="fish/8.jpg" class="d-block w-100 h-10" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="fish/2.png" class="d-block w-100 h-10" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="fish/5.png" class="d-block w-100 h-10" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="fish/7.png" class="d-block w-100 h-10" alt="...">
-    </div>
-  </div>
-</div>
-
-
-
-
-    <div class="">
+    <div class="row">
         <div class="col-2">
             <h1>You're looking for Proteins? <br>We've it!</h1>
             <p>We're committed on ensuring perfect health to our customers, our products 
