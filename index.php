@@ -66,7 +66,7 @@
     <div>
     <h2 class="title">Indian Fishes</h2>
     </div>
-    <div class="container small-container">
+    <div class="rows">
         
         <div class="rows">
             <div class="card col-4">
