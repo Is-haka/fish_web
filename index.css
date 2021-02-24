@@ -15,34 +15,9 @@ body {
 .logo img {
     padding: 10px;
 }
-
-.navbar {
-    display: flex;
-    align-items: center;
-}
-
-nav {
-    flex: 1;
-    text-align: center;
-}
-
-nav ul {
-    list-style-type: none;
-}
-
-nav ul li {
-    display: inline-block;
-    margin-right: 20px;
-}
-
-a {
-    font-size: 18px;
-    text-decoration: none;
-    color: #555;
-}
-
-nav ul li a:hover {
-    color: #5900ff;
+#navigation
+{
+    background: lightgrey !important;
 }
 .row {
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(fish/20.jpg);

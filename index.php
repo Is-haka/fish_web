@@ -12,22 +12,36 @@
 </head>
 <body>
     <div class="header">
-    <div class="container">
-    <div class="navbar">
-        <div class="logo">
-            <img src="fish/1.png" width="80px">
-        </div>
-        <nav>
-            <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Products</a></li>
-                <li><a href="">About</a></li>
-                <li><a href="">Contacts</a></li>
-                <li><a href="">Account</a></li>
-            </ul>
-        </nav>
+
+
+    	<nav id="navigation" class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <img src="fish/1.png" width="80px">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse float" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active pl-5 ml-5" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Products</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contacts</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Account</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
     </div>
-</div>
+  </div>
+</nav>
+
     <div class="row">
         <div class="col -8">
         <div class="col-8">
