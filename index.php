@@ -23,19 +23,19 @@
     <div class="collapse navbar-collapse float" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active pl-5 ml-5" aria-current="page" href="#">Home</a>
+          <a style="margin-left: 90px !important; outline: none !important;" class="nav-link active pl-5 ml-5" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Products</a>
+          <a id="link" class="nav-link" href="#">Products</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacts</a>
+          <a id="link" class="nav-link" href="#">Contacts</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Account</a>
+          <a id="link" class="nav-link" href="#">Account</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a id="link" class="nav-link" href="#">About</a>
         </li>
       </ul>
     </div>
@@ -83,7 +83,8 @@
     <div class="rows">
         
         <div class="rows">
-            <div class="card col-4">
+            <div>
+            	<div class="card col-4">
                 <img src="fish/2.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -131,7 +132,9 @@
                     <i class="fa fa-star-o"></i>
                 </div>
             </div>
-            <div class="card col-4">
+            </div>
+            <div>
+            	<div class="card col-4">
                 <img src="./fish/5.png">
                 <h4>Tilapia Fish</h4>
                 <p>Tsh. 2000/=</p>
@@ -154,6 +157,81 @@
                     <i class="fa fa-star-o"></i>
                     <i class="fa fa-star-o"></i>
                 </div>
+            </div>
+            <div class="card col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="card col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            </div>
+                <div>
+            	<div class="card col-4">
+                <img src="./fish/5.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+            </div>
+            <div class="card col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="card col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
+            <div class="card col-4">
+                <img src="fish/2.png">
+                <h4>Tilapia Fish</h4>
+                <p>Tsh. 2000/=</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o"></i>
+                    <i class="fa fa-star-o"></i>
+                </div>
+            </div>
             </div>
         </div>
     </div>
